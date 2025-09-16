@@ -1,5 +1,5 @@
 # Markdown syntax guide
-
+Por Nuno Martins
 ## Headers
 
 # This is a Heading h1
@@ -68,3 +68,4 @@ alert(message);
 ## Inline code
 
 This web site is using `markedjs/marked`.
+
